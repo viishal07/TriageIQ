@@ -136,5 +136,4 @@ function SymptomInput({ autoDemo }) {
     </div>
   );
 }
-
 export default SymptomInput;
